@@ -23,7 +23,7 @@ def int_to_roman(number):
     return roman_string
 
 def roman_to_int(string):
-    """Convert a string into an integer"""
+    """Convert a roman numeral string to an integer"""
     integer = 0
 
     # For each roman numeral, if it's in the string, add the corresponding number
