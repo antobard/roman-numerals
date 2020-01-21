@@ -1,2 +1,2 @@
 # automatic-octo-disco
-Short programs
+Just a short roman / decimal converter and a quiz from it
